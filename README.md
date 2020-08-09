@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hello 👋 my name is Leo Power
 ## I am a Python Developer
 I am a Python Developer and I am learning JavaScript. I am currently studying Computer 
-Scince and CyberSecurity I Currently work as my own freelancing services at 
+Science and CyberSecurity I Currently work as my own freelancing services at 
 https://powerthecoder.xyz and I work for PloxHost a Server hosting company.
 
 # Discord Projects
