@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![alt text](https://i.powerthecoder.xyz/8zdrtgrz.PNG)
 
 # Hello 👋 my name is Leo Power
 ## I am a Python Developer
