@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 # Hello 👋 my name is Leo Power
 ## I am a Python Developer
-I am currently learning Python and JavaScript. I am currently studying Computer Scince and CyberSecurity
-I Currently work as my own freelancing services at https://powerthecoder.xyz and I work for PloxHost a Server hosting company.
+I am currently learning Python and JavaScript. I am currently studying Computer 
+Scince and CyberSecurity I Currently work as my own freelancing services at 
+https://powerthecoder.xyz and I work for PloxHost a Server hosting company.
 
 # Discord Projects
 > Support Server: https://powerthecoder.xyz/Discord
