@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-### Hello 👋 my name is Leo Power
+# Hello 👋 my name is Leo Power
 ## I am a Python Developer
 I am currently learning Python and JavaScript. I am interested in Cybersecurity and computer science.
 I Currently work as my own freelancing services PowerTheCoder and I work for PloxHost a Server hosting company.
 
-### Discord Projects
+# Discord Projects
 > Support Server: https://powerthecoder.xyz/Discord
-# Steam Bot
+### Steam Bot
 A Discord Bot that checks the Status of Steam Services and some Steam Source Games
 > Bot Invite: https://powerthecoder.xyz/SteamBot
 
-# PowerBot
+### PowerBot
 A Moderation Discord Bot that helps out moderators and admins of a server to make sure everything runs smoothly
 and gives the ability to users without perms to use the bot and have some fun
 > Bot Invite: https://powerthecoder.xyz/PowerBot
 
-# Roblox Status
+### Roblox Status
 A Discord Bot that checks the status of roblox services and reports it to you live in your very own discord server
 > Bot Invite: https://powerthecoder.xyz/RobloxBot
