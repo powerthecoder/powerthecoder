@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![alt text](https://i.powerthecoder.xyz/8zdrtgrz.PNG)
+![alt text](https://i.powerthecoder.xyz/lyb5wiht.PNG)
 
 # Hello 👋 my name is Leo Power
 ## I am a Python Developer
