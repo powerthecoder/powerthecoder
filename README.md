@@ -38,6 +38,7 @@ A Moderation Discord Bot that helps out moderators and admins of a server to mak
 and gives the ability to users without perms to use the bot and have some fun
 > Bot Invite: https://powerthecoder.xyz/PowerBot
 
-### Roblox Status
+<!-- ### Roblox Status
 A Discord Bot that checks the status of roblox services and reports it to you live in your very own discord server
 > Bot Invite: https://powerthecoder.xyz/RobloxBot
+--> 
