@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 [![alt text](https://i.powerthecoder.xyz/lyb5wiht.PNG)](https://discord.gg/bQCZMDE)
  
-[![Run on Repl.it](https://repl.it/badge/github/powerthecoder/DJS-Bot)](https://repl.it/github/powerthecoder/DJS-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/powerthecoder/DJS-Bot)](https://repl.it/github/powerthecoder)
 
 # Hello 👋 my name is Leo Power
 ## I am a Python Developer
