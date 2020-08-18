@@ -33,7 +33,7 @@ https://powerthecoder.xyz and I work for PloxHost a Server hosting company.
 A Discord Bot that checks the Status of Steam Services and some Steam Source Games
 > Bot Invite: https://powerthecoder.xyz/SteamBot
  
-[![Discord Bots](https://top.gg/api/widget/722652216972017724.svg)](https://top.gg/bot/722652216972017724)
+[![Discord Bots](https://top.gg/api/widget/servers/722652216972017724.svg)](https://top.gg/bot/722652216972017724)
 
 ### PowerBot
 A Moderation Discord Bot that helps out moderators and admins of a server to make sure everything runs smoothly
