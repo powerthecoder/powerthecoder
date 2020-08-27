@@ -37,7 +37,7 @@ A Discord Bot that checks the Status of Steam Services and some Steam Source Gam
 ### PowerBot
 A Moderation Discord Bot that helps out moderators and admins of a server to make sure everything runs smoothly
 and gives the ability to users without perms to use the bot and have some fun
-> Bot Invite: https://powerthecoder.xyz/PowerBot
+> Bot Invite: https://powerthecoder.xyz/PowerBot 
 <sub><sup>© Copyright PowerTheCoder </sup></sub>
 
 <!-- ### Roblox Status
