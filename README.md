@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+w<!-- ### Hi there 👋 -->
 
 <!--
 **powerthecoder/powerthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://i.powerthecoder.xyz/8zdrtgrz.PNG)
+![alt text](https://i.powerthecoder.xyz/ex0ll2ra.PNG)
  
 [![alt text](https://i.powerthecoder.xyz/lyb5wiht.PNG)](https://discord.gg/bQCZMDE)
  
