@@ -27,6 +27,8 @@ I am a Python Developer and I am learning JavaScript. I am currently studying Co
 Science and CyberSecurity I Currently work as my own freelancing services at 
 https://powerthecoder.xyz and I work for PloxHost a Server hosting company.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Discord Projects
 > Support Server: https://powerthecoder.xyz/Discord
 ### Steam Bot
