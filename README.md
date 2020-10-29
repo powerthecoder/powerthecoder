@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://i.powerthecoder.xyz/ex0ll2ra.PNG)(https://discord.gg/bQCZMDE)
+[![alt text](https://i.powerthecoder.xyz/ex0ll2ra.PNG)](https://discord.gg/bQCZMDE)
  
 [![alt text](https://i.powerthecoder.xyz/lyb5wiht.PNG)](https://discord.gg/bQCZMDE)
  
@@ -27,7 +27,7 @@ I am a Python Developer and I am learning JavaScript. I am currently studying Co
 Science and CyberSecurity I Currently work as my own freelancing services at 
 https://powerthecoder.xyz and I work for PloxHost a Server hosting company.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
 
 
 
