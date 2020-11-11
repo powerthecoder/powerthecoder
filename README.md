@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![Run on Repl.it](https://repl.it/badge/github/powerthecoder/DJS-Bot)](https://repl.it/github/powerthecoder) [![alt text](https://i.powerthecoder.xyz/3z695at7.png)](https://www.hackerrank.com/certificates/ee5166ea7e77) [![alt text](https://i.powerthecoder.xyz/ymlmr0yz.png)](https://www.hackerrank.com/certificates/96bf41680e24)
 
 # Hello 👋 my name is Leo Power
-## I am a Python Developer
-I am a Python Developer and I am learning JavaScript. I am currently studying Computer 
+## I am a Software Developer
+I am a Software Developer, I program in Python, Java, JavaScript (Node.JS). I am currently studying Computer 
 Science and CyberSecurity I Currently work as my own freelancing services at 
 [PowerTheCoder](https://powerthecoder.xyz) and I work for [PloxHost](https://plox.host/) a Server hosting company.
 
