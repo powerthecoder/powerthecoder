@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## I am a Software Developer
 I am a Software Developer, I program in Python, Java, JavaScript (Node.JS). I am currently studying Computer 
 Science and CyberSecurity I Currently work as my own freelancing services at 
-[PowerTheCoder](https://powerthecoder.xyz) and I work for [PloxHost](https://plox.host/) a Server hosting company.
+[PowerTheCoder](https://powerthecoder.xyz) and I work for [PrismHost](https://prism-host.com) a Server hosting company.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
 
