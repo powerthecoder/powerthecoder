@@ -1,5 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
 
 # Hello 👋 my name is Leo Power
 ## I am a CyberSecurity Administrator and Software Developer
