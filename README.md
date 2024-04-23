@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![alt text](https://i.powerthecoder.xyz/ex0ll2ra.PNG)](https://discord.gg/bQCZMDE)
- 
-[![alt text](https://i.powerthecoder.xyz/lyb5wiht.PNG)](https://discord.gg/bQCZMDE)
  
 [![Run on Repl.it](https://repl.it/badge/github/powerthecoder/DJS-Bot)](https://repl.it/github/powerthecoder) [![alt text](https://i.powerthecoder.xyz/3z695at7.png)](https://www.hackerrank.com/certificates/ee5166ea7e77) [![alt text](https://i.powerthecoder.xyz/ymlmr0yz.png)](https://www.hackerrank.com/certificates/96bf41680e24)
 
