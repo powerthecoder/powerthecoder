@@ -1,7 +1,7 @@
 
 
 # Hello 👋 my name is Leo Power
-## I am a CyberSecurity Administrator and Software Developer
+## I am a CyberSecurity Specialist and Software Developer
 ##🔒 IT Security Professional | Cybersecurity Specialist
 
 Proficient in cybersecurity risk mitigation and information system protection, I excel in securing networks and systems against evolving threats. My expertise spans Network Security (NIST, OWASP, OSSTMM, PTES, ISSAF, WAF), System Security (OSINT, CIA/AAA, CVSS/CVE, SIEM, SOAR, DLP, IDS/IPS), and Penetration Testing Tools (Metasploit, Nmap, Aircrack, Harvester).
