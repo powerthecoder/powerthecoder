@@ -1,7 +1,7 @@
 
 
 # Hello 👋 my name is Leo Power
-###TS/SCI Cleared | CompTiA Security+ | GIAC GFACT | ISC2 CC
+### TS/SCI Cleared | CompTiA Security+ | GIAC GFACT | ISC2 CC
 ## I am a CyberSecurity Specialist and Software Developer
 ### 🔒 IT Security Professional | Cybersecurity Specialist
 
