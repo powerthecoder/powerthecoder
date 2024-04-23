@@ -1,47 +1,18 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**powerthecoder/powerthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
-[![Run on Repl.it](https://repl.it/badge/github/powerthecoder/DJS-Bot)](https://repl.it/github/powerthecoder) [![alt text](https://i.powerthecoder.xyz/3z695at7.png)](https://www.hackerrank.com/certificates/ee5166ea7e77) [![alt text](https://i.powerthecoder.xyz/ymlmr0yz.png)](https://www.hackerrank.com/certificates/96bf41680e24)
-
-# Hello 👋 my name is Leo Power
-## I am a Software Developer
-I am a Software Developer, I program in Python, Java, JavaScript (Node.JS). I am currently studying Computer 
-Science and CyberSecurity I Currently work as my own freelancing services at 
-[PowerTheCoder](https://powerthecoder.xyz) and I work for [PrismHost](https://prism-host.com) a Server hosting company.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
 
+# Hello 👋 my name is Leo Power
+## I am a CyberSecurity Administrator and Software Developer
+###🔒 IT Security Professional | Cybersecurity Specialist
 
+Proficient in cybersecurity risk mitigation and information system protection, I excel in securing networks and systems against evolving threats. My expertise spans Network Security (NIST, OWASP, OSSTMM, PTES, ISSAF, WAF), System Security (OSINT, CIA/AAA, CVSS/CVE, SIEM, SOAR, DLP, IDS/IPS), and Penetration Testing Tools (Metasploit, Nmap, Aircrack, Harvester).
 
-# Discord Projects
-> Support Server: https://powerthecoder.xyz/Discord
-### Steam Bot
-A Discord Bot that checks the Status of Steam Services and some Steam Source Games
-> Bot Invite: https://powerthecoder.xyz/SteamBot
+### 🛡️ Specialized in DevSecOps and Automation
 
+Skilled in programming and automation (Python, JavaScript, SQL, Java), I emphasize integrating security seamlessly into the DevSecOps workflow. My background includes utilizing industry-standard frameworks and penetration testing tools to conduct comprehensive evaluations and ensure compliance.
 
-### PowerBot
-A Moderation Discord Bot that helps out moderators and admins of a server to make sure everything runs smoothly
-and gives the ability to users without perms to use the bot and have some fun
-> Bot Invite: https://powerthecoder.xyz/PowerBot <br>
-#
-<sub><sup>© Copyright PowerTheCoder </sup></sub>
+### 🚨 Effective Incident Response & Risk Assessment
 
-<!-- ### Roblox Status
-A Discord Bot that checks the status of roblox services and reports it to you live in your very own discord server
-> Bot Invite: https://powerthecoder.xyz/RobloxBot
--->  
+Demonstrated proficiency in incident response and risk assessment, ensuring timely detection and resolution of security events. Committed to maintaining the highest levels of security and compliance, I am passionate about improving the security posture of organizations.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
