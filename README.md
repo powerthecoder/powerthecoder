@@ -1,6 +1,7 @@
 
 
 # Hello 👋 my name is Leo Power
+Top Secret/SCI Cleared
 ## I am a CyberSecurity Specialist and Software Developer
 ### 🔒 IT Security Professional | Cybersecurity Specialist
 
