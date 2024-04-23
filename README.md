@@ -16,4 +16,4 @@ Skilled in programming and automation (Python, JavaScript, SQL, Java), I emphasi
 Demonstrated proficiency in incident response and risk assessment, ensuring timely detection and resolution of security events. Committed to maintaining the highest levels of security and compliance, I am passionate about improving the security posture of organizations.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
-[![Security+](security.png)
+[![Security+](powerthecoder/security.png)
