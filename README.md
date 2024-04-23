@@ -17,4 +17,4 @@ Demonstrated proficiency in incident response and risk assessment, ensuring time
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=powerthecoder)](https://github.com/powerthecoder?tab=repositories)
 ![alt text](https://github.com/powerthecoder/powerthecoder/blob/master/security.jpg)
-<img src="[drawing.jpg](https://github.com/powerthecoder/powerthecoder/blob/master/security.jpg)" alt="sec" width="200"/>
+<img src="https://github.com/powerthecoder/powerthecoder/blob/master/security.jpg" alt="sec" width="200"/>
